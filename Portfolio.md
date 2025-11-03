@@ -1,4 +1,4 @@
-_## 📚 Portfólio de Conceitos POO em Python
+Portfólio de Conceitos POO em Python
 
 Aqui está uma demonstração de como Python implementa cada um dos conceitos fundamentais de POO.
 
