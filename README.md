@@ -1,2 +1,0 @@
-# PORTFOLIO-POO
-Portfolio POO 2025
